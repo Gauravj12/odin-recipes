@@ -1,0 +1,1 @@
+A simple recipe website made with only html as a part of odin project, in that project i used lists, headers, images, links, etc.
